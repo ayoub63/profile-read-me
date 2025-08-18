@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayoub Afkir</h1>
-<h3 align="center">A passionate Web Developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub63&label=Profile%20views&color=0e75b6&style=flat" alt="ayoub63" /> </p>
-
-- 🌱 I’m currently learning **React.js, Springboot, Data Structures and Algorithms, Docker, AWS**
 
 - 📫 How to reach me **ayoubafkir18@gmail.com**
 
